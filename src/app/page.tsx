@@ -41,7 +41,7 @@ export default function LandingPage() {
         <HeroBillboardTestimonial
           title="Tu equipo, siempre al máximo nivel"
           description="Montaje de ordenadores personalizados, mantenimiento preventivo y soporte técnico profesional para PYMES, autónomos y particulares que buscan rendimiento y fiabilidad."
-          tag="https://www.webild.io/preview/ed8ad9b8-be85-477b-94bb-52a705bc33a8"
+          tag="English: https://www.webild.io/preview/ed8ad9b8-be85-477b-94bb-52a705bc33a8"
           tagIcon={Zap}
           tagAnimation="slide-up"
           background={{ variant: "glowing-orb" }}
