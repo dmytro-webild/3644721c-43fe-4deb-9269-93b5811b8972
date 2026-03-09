@@ -51,19 +51,19 @@ export default function LandingPage() {
           testimonials={[
             {
               name: "María García",              handle: "CEO, Soluciones Tech SL",              testimonial: "Excelente servicio técnico. El montaje de nuestros ordenadores fue profesional y el soporte posterior impecable.",              rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Aidc3onj0Uywj4IpRkqF30QNvD/a-diverse-team-of-professional-it-specia-1773079709273-49f951c0.png"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Aidc3onj0Uywj4IpRkqF30QNvD/a-diverse-team-of-professional-it-specia-1773079709273-49f951c0.png?_wi=1"
             },
             {
               name: "Carlos López",              handle: "Autónomo, Consultoría Digital",              testimonial: "Muy satisfecho con la optimización de mi sistema. Increíble mejora de rendimiento y desinfección completa.",              rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Aidc3onj0Uywj4IpRkqF30QNvD/a-diverse-team-of-professional-it-specia-1773079709273-49f951c0.png"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Aidc3onj0Uywj4IpRkqF30QNvD/a-diverse-team-of-professional-it-specia-1773079709273-49f951c0.png?_wi=2"
             },
             {
               name: "Ana Martínez",              handle: "Gerente, Empresa Logística",              testimonial: "El mantenimiento preventivo de Nexonix nos ha evitado muchos problemas. Profesionales de confianza.",              rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Aidc3onj0Uywj4IpRkqF30QNvD/a-diverse-team-of-professional-it-specia-1773079709273-49f951c0.png"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Aidc3onj0Uywj4IpRkqF30QNvD/a-diverse-team-of-professional-it-specia-1773079709273-49f951c0.png?_wi=3"
             },
             {
               name: "Juan Rodríguez",              handle: "Propietario, Estudio Gráfico",              testimonial: "Transparencia total en precios y procesos. Recomiendo Nexonix sin dudarlo a cualquiera.",              rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Aidc3onj0Uywj4IpRkqF30QNvD/a-diverse-team-of-professional-it-specia-1773079709273-49f951c0.png"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Aidc3onj0Uywj4IpRkqF30QNvD/a-diverse-team-of-professional-it-specia-1773079709273-49f951c0.png?_wi=4"
             }
           ]}
           testimonialRotationInterval={5000}
